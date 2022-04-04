@@ -31,6 +31,7 @@ body{
     text-align: center;
     font-family: monospace;
     color: #fff;
+    text-shadow: -5px 3px 2px red, -2px 9px 4px green, 5px 15px 5px yellow;
   }
   .a-title{
     font-size: 45px;
